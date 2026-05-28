@@ -1,10 +1,10 @@
-# TruEatz Privacy Policy
+# WildTruth Privacy Policy
 
 **Effective Date:** May 3, 2026
 **Last Updated:** May 3, 2026
 **Version:** 11.0
 
-TruEatz is built on a simple promise: **we collect the minimum amount of data needed to make the App work, and we never sell it to anyone.** This document explains exactly what we collect, why, your choices, and your rights.
+WildTruth is built on a simple promise: **we collect the minimum amount of data needed to make the App work, and we never sell it to anyone.** This document explains exactly what we collect, why, your choices, and your rights.
 
 If you have questions, email us at **app@trueatzapp.com**.
 
@@ -14,13 +14,13 @@ This Policy is incorporated by reference into our Terms of Service.
 
 ## 1. Who We Are
 
-TruEatz ("we," "us," "our," the "Company") is the operator of the TruEatz mobile application (the "App") and the website at trueatzapp.com (together, the "Service").
+WildTruth, operated by the app owner ("we," "us," "our," the "Company"), is the operator of the WildTruth mobile application (the "App") and the website at trueatzapp.com (together, the "Service").
 
 **Contact:**
 - Email: app@trueatzapp.com
 - Country of operation: Florida, United States
 
-For users in the European Economic Area (EEA) or United Kingdom, TruEatz is the data controller for personal data described in this Policy. We do not currently appoint a designated EU representative under GDPR Article 27 because our processing of EEA/UK personal data is occasional, low-risk, and not large-scale. We do not require a Data Protection Officer under GDPR Article 37 because our processing does not involve large-scale systematic monitoring or large-scale processing of special category data. We will appoint a representative or DPO if our processing scope changes and update this Policy accordingly.
+For users in the European Economic Area (EEA) or United Kingdom, WildTruth, operated by the app owner, is the data controller for personal data described in this Policy. We do not currently appoint a designated EU representative under GDPR Article 27 because our processing of EEA/UK personal data is occasional, low-risk, and not large-scale. We do not require a Data Protection Officer under GDPR Article 37 because our processing does not involve large-scale systematic monitoring or large-scale processing of special category data. We will appoint a representative or DPO if our processing scope changes and update this Policy accordingly.
 
 Section headings in this Policy are for convenience only and do not affect interpretation.
 
@@ -158,14 +158,14 @@ We do **NOT** share your data with:
 We may disclose personal information when we believe in good faith that disclosure is required to:
 - Comply with a valid legal process (subpoena, court order, warrant)
 - Enforce our Terms of Service
-- Protect the rights, property, or safety of TruEatz, our users, or the public
+- Protect the rights, property, or safety of WildTruth, our users, or the public
 - Detect or prevent fraud, security threats, or technical issues
 
 When legally permitted, we will notify the affected user before disclosure.
 
 ### 5.2 Business transfers
 
-If TruEatz is involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of assets, your information may be transferred as part of the transaction. The acquiring entity will be bound by this Policy or will provide notice and the opportunity to opt out before applying any new policy.
+If WildTruth is involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of assets, your information may be transferred as part of the transaction. The acquiring entity will be bound by this Policy or will provide notice and the opportunity to opt out before applying any new policy.
 
 ---
 
@@ -192,14 +192,14 @@ If you grant push notification permission, we may send you:
 - **Community activity** (optional, off by default) — when one of your submissions is approved or upvoted
 
 Disable any of these in your device's notification settings:
-- iOS: Settings → Notifications → TruEatz
-- Android: Settings → Apps → TruEatz → Notifications
+- iOS: Settings → Notifications → WildTruth
+- Android: Settings → Apps → WildTruth → Notifications
 
 A future App version will add in-App granular notification toggles by category.
 
 ### 6.3 Marketing communications
 
-**As of May 2, 2026, TruEatz has never sent marketing or promotional emails or push notifications**, and has not done so in the preceding 12 months. We do not maintain a marketing mailing list.
+**As of May 2, 2026, WildTruth has never sent marketing or promotional emails or push notifications**, and has not done so in the preceding 12 months. We do not maintain a marketing mailing list.
 
 If we ever introduce optional marketing communications, we will:
 - Update this Policy first (with at least 30 days' advance notice)
@@ -211,7 +211,7 @@ If we ever introduce optional marketing communications, we will:
 
 ## 7. Public vs. Private Information
 
-Some things you do in TruEatz are visible to other users:
+Some things you do in WildTruth are visible to other users:
 
 **PUBLIC** (visible to other users):
 - Display name and anonymous username
@@ -237,7 +237,7 @@ If you don't want a submission, photo, or attribution to be public, **don't subm
 
 ### 8.1 General age requirement
 
-TruEatz is not intended for users under 13. We do not knowingly collect personal data from children under 13. If we learn we have, we will delete it within 7 days.
+WildTruth is not intended for users under 13. We do not knowingly collect personal data from children under 13. If we learn we have, we will delete it within 7 days.
 
 ### 8.2 App Store Accountability Laws (Texas, Utah, Louisiana, California, 2026)
 
@@ -292,7 +292,7 @@ California residents have additional rights:
 - The right to limit use of sensitive personal information
 - The right to non-discrimination for exercising these rights
 
-**As of May 2, 2026, TruEatz has never sold or shared personal information** as defined by the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA), and has not sold or shared personal information in the preceding 12 months.
+**As of May 2, 2026, WildTruth has never sold or shared personal information** as defined by the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA), and has not sold or shared personal information in the preceding 12 months.
 
 Because we do not sell or share personal information, we are not required to display a "Do Not Sell or Share My Personal Information" link. However, you may email app@trueatzapp.com with subject "California Privacy Request" to receive written confirmation of our non-sale status or exercise other CCPA / CPRA rights.
 
@@ -381,7 +381,7 @@ To report a security vulnerability, suspected breach, or unauthorized account ac
 
 ## 12. International Data Transfers
 
-TruEatz is operated from the United States. If you use the App from outside the US, your personal data may be transferred to and processed in the US.
+WildTruth is operated from the United States. If you use the App from outside the US, your personal data may be transferred to and processed in the US.
 
 For transfers from the EEA to the US, we rely on:
 - The European Commission's Standard Contractual Clauses (SCCs)
@@ -420,7 +420,7 @@ If we add or remove third-party services in a way that materially changes how yo
 
 ## 14. Cookies and Website
 
-The TruEatz mobile App does not use cookies (cookies are a web browser concept).
+The WildTruth mobile App does not use cookies (cookies are a web browser concept).
 
 The trueatzapp.com **website** is currently a placeholder marketing site with no analytics, no third-party trackers, and no advertising cookies. If we expand the website to include analytics, login, interactive features, or any cookie-using functionality, we will:
 
@@ -433,7 +433,7 @@ The trueatzapp.com **website** is currently a placeholder marketing site with no
 
 ## 15. Health App Disclaimer (Google Play Health Apps Policy)
 
-TruEatz provides educational information about packaged foods. **TruEatz is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional for medical advice, diagnosis, or treatment.**
+WildTruth provides educational information about packaged foods. **WildTruth is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional for medical advice, diagnosis, or treatment.**
 
 We have completed Google Play's Health Apps Declaration where required and operate as a non-medical-device wellness / nutrition information app.
 
@@ -451,7 +451,7 @@ We may update this Policy as the App evolves. When we make material changes, we 
 
 **Non-material changes** (typo fixes, formatting, contact information updates, clarifications without substantive impact) take effect immediately upon posting.
 
-If you continue using TruEatz after changes take effect, you accept the updated Policy.
+If you continue using WildTruth after changes take effect, you accept the updated Policy.
 
 A historical archive of prior versions is available on request via app@trueatzapp.com.
 
@@ -475,4 +475,4 @@ We respond to all privacy requests within 30 days (45 days for CCPA / California
 
 ---
 
-*TruEatz — Real food. Real science. No tracking. No selling. No ads.*
+*WildTruth — Real food. Real science. Independent scores. No food brand can buy or influence a better score.*

@@ -1,6 +1,6 @@
-# TruEatz CHANGELOG
+# WildTruth CHANGELOG
 
-All notable changes to the TruEatz scoring algorithm and legal documents are tracked here. Public-facing for transparency and to demonstrate good-faith iteration.
+All notable changes to the WildTruth scoring algorithm and legal documents are tracked here. Public-facing for transparency and to demonstrate good-faith iteration.
 
 ---
 
@@ -59,8 +59,8 @@ All notable changes to the TruEatz scoring algorithm and legal documents are tra
 
 ## Philosophy notes
 
-TruEatz scoring rejects outdated Nutri-Score dogma. Saturated fat from real meat, calorie density, and natural sodium are not penalized. Chemical additives, nitrites, seed oils, refined sugar, and ultra-processed foods are.
+WildTruth scoring rejects outdated Nutri-Score dogma. Saturated fat from real meat, calorie density, and natural sodium are not penalized. Chemical additives, nitrites, seed oils, refined sugar, and ultra-processed foods are.
 
-This CHANGELOG is public so users, brands, and regulators can audit every scoring rule change with date and rationale. Brands cannot pay to influence scores. TruEatz has no advertising, no affiliate deals, and no commercial relationships with food manufacturers.
+This CHANGELOG is public so users, brands, and regulators can audit every scoring rule change with date and rationale. Brands cannot pay to influence scores. No food brand can buy or influence a better score. WildTruth has no commercial relationships with food manufacturers that affect scoring.
 
 For questions: **app@trueatzapp.com**

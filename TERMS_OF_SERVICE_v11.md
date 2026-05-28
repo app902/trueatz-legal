@@ -1,10 +1,10 @@
-# TruEatz Terms of Service
+# WildTruth Terms of Service
 
 **Effective Date:** May 3, 2026
 **Last Updated:** May 3, 2026
 **Version:** 11.0
 
-Welcome to TruEatz. These Terms of Service ("Terms") govern your use of the TruEatz mobile application (the "App"), the trueatzapp.com website, and any related services we provide (together, the "Service").
+Welcome to WildTruth. These Terms of Service ("Terms") govern your use of the WildTruth mobile application (the "App"), the trueatzapp.com website, and any related services we provide (together, the "Service").
 
 **By creating an account, downloading the App, or using the Service in any way, you agree to be bound by these Terms.** If you do not agree, do not use the Service.
 
@@ -14,7 +14,7 @@ These Terms include important provisions affecting your legal rights, including 
 
 ## 1. Who We Are
 
-TruEatz ("we," "us," "our," the "Company") is a Florida-based operator of the Service. Contact: **app@trueatzapp.com**.
+WildTruth, operated by the app owner ("we," "us," "our," the "Company"), is a Florida-based operator of the Service. Contact: **app@trueatzapp.com**.
 
 Section headings in these Terms are for convenience only and do not affect interpretation.
 
@@ -22,7 +22,7 @@ Section headings in these Terms are for convenience only and do not affect inter
 
 ## 2. The Service
 
-TruEatz is a food-scanning App that scores packaged foods on a 0–100 scale based on ingredient analysis and nutrition data. The Service includes:
+WildTruth is a food-scanning App that scores packaged foods on a 0–100 scale based on ingredient analysis and nutrition data. The Service includes:
 
 - Barcode and label scanning
 - Ingredient and additive education
@@ -30,7 +30,7 @@ TruEatz is a food-scanning App that scores packaged foods on a 0–100 scale bas
 - A points system that converts to free Premium time
 - Optional Premium features (paid subscription)
 
-**TruEatz is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional for medical advice, diagnosis, or treatment.** See Section 11 for the full health and safety disclaimer.
+**WildTruth is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional for medical advice, diagnosis, or treatment.** See Section 11 for the full health and safety disclaimer.
 
 ---
 
@@ -103,7 +103,7 @@ A **material breach** of these Terms means any violation that exposes us to lega
 
 ## 6. Your Submissions
 
-When you submit content (product info, photos, OCR-extracted text, reports, upvotes, etc.) to TruEatz:
+When you submit content (product info, photos, OCR-extracted text, reports, upvotes, etc.) to WildTruth:
 
 ### 6.1 You retain ownership
 
@@ -111,7 +111,7 @@ You retain all rights you have in content you submit.
 
 ### 6.2 You grant us a license
 
-You grant TruEatz a **non-exclusive, worldwide, royalty-free license** to use, store, copy, display, distribute, modify (only as necessary for formatting/display), and translate your submissions for the purpose of operating, providing, improving, and promoting the Service and its food database.
+You grant WildTruth a **non-exclusive, worldwide, royalty-free license** to use, store, copy, display, distribute, modify (only as necessary for formatting/display), and translate your submissions for the purpose of operating, providing, improving, and promoting the Service and its food database.
 
 This license is **necessary because the Service is built around a shared community database**. After account deletion, your submissions are pseudonymized as described in our Privacy Policy and may continue to be displayed in this manner.
 
@@ -131,7 +131,7 @@ We may remove submissions we believe are inaccurate, misleading, harmful, or in 
 
 ### 6.4 Feedback waiver
 
-Any feedback, suggestions, ideas, or recommendations you provide about the Service ("Feedback") may be used by TruEatz without obligation, attribution, or compensation. You grant us a perpetual, irrevocable, worldwide, royalty-free license to use Feedback for any purpose.
+Any feedback, suggestions, ideas, or recommendations you provide about the Service ("Feedback") may be used by WildTruth without obligation, attribution, or compensation. You grant us a perpetual, irrevocable, worldwide, royalty-free license to use Feedback for any purpose.
 
 ---
 
@@ -150,7 +150,7 @@ You earn points by contributing to the food database (scanning, submitting produ
 Points have **no cash value** and cannot be:
 - Sold, traded, gifted, or transferred between accounts
 - Redeemed for cash, refunds, gift cards, or any tangible item
-- Used outside the TruEatz Service
+- Used outside the WildTruth Service
 - Treated as currency, securities, or property under any applicable law
 
 ### 7.3 Forfeiture
@@ -242,9 +242,9 @@ We are not liable for damages caused by inaccurate, incomplete, or outdated thir
 
 ### 11.1 Not medical advice
 
-**TruEatz is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional for medical advice, diagnosis, or treatment.**
+**WildTruth is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional for medical advice, diagnosis, or treatment.**
 
-TruEatz scores foods based on ingredient analysis, nutrition data, and peer-reviewed research. The scores are **opinions and educational tools**, not medical, dietary, or professional advice.
+WildTruth scores foods based on ingredient analysis, nutrition data, and peer-reviewed research. The scores are **opinions and educational tools**, not medical, dietary, or professional advice.
 
 ### 11.2 We are not professionals
 
@@ -254,12 +254,12 @@ TruEatz scores foods based on ingredient analysis, nutrition data, and peer-revi
 
 ### 11.3 Allergies and medical conditions
 
-**If you have a serious allergy, intolerance, or medical condition, do NOT rely solely on TruEatz to determine if a food is safe for you.** Always:
+**If you have a serious allergy, intolerance, or medical condition, do NOT rely solely on WildTruth to determine if a food is safe for you.** Always:
 - Read the actual product label every time
 - Verify with the manufacturer when in doubt
 - Consult your physician, allergist, or dietitian
 
-Ingredient lists and nutrition data may be incomplete, outdated, or incorrect. Manufacturers change formulations without notice. **A score, badge, or "safe" indicator in TruEatz is never a guarantee of safety.**
+Ingredient lists and nutrition data may be incomplete, outdated, or incorrect. Manufacturers change formulations without notice. **A score, badge, or "safe" indicator in WildTruth is never a guarantee of safety.**
 
 ### 11.4 Recall alerts (Premium feature)
 
@@ -277,15 +277,15 @@ Our scoring algorithm may produce incorrect or outdated scores due to data error
 
 ### 12.1 Our IP
 
-The TruEatz name, logo, scoring algorithm, App design, source code, branding, and original content are the exclusive property of TruEatz. All rights are reserved. You may not use them without our prior written permission.
+The WildTruth name, logo, scoring algorithm, App design, source code, branding, and original content are the exclusive property of WildTruth. All rights are reserved. You may not use them without our prior written permission.
 
 ### 12.2 Third-party trademarks
 
-Other trademarks shown in the App (brand names, product packaging, logos) belong to their respective owners. Their appearance does NOT imply endorsement of TruEatz by those owners or vice versa. Use of brand names is for nominative identification only.
+Other trademarks shown in the App (brand names, product packaging, logos) belong to their respective owners. Their appearance does NOT imply endorsement of WildTruth by those owners or vice versa. Use of brand names is for nominative identification only.
 
 ### 12.3 No reverse engineering
 
-You may not reverse engineer, decompile, disassemble, or attempt to extract the source code, algorithms, training data, or database structure of TruEatz, except to the extent such restriction is prohibited by applicable law (e.g., for interoperability under EU Software Directive).
+You may not reverse engineer, decompile, disassemble, or attempt to extract the source code, algorithms, training data, or database structure of WildTruth, except to the extent such restriction is prohibited by applicable law (e.g., for interoperability under EU Software Directive).
 
 ---
 
@@ -301,7 +301,7 @@ We respect intellectual property rights. If you believe content on the Service i
 6. A statement, under penalty of perjury, that the information is accurate and you are authorized to act
 
 **DMCA Agent:**
-TruEatz — DMCA Agent
+WildTruth — DMCA Agent
 Email: app@trueatzapp.com
 Subject: DMCA Notice
 
@@ -335,8 +335,8 @@ WE DO NOT WARRANT THAT THE SERVICE, ITS CONTENT, OR ANY THIRD-PARTY DATA IS ACCU
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
-- TruEatz, its officers, directors, employees, agents, partners, and licensors are **NOT liable** for indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to lost profits, lost data, business interruption, loss of goodwill, or substitute services
-- Our **total aggregate liability** for any claim arising from your use of the Service is limited to the GREATER of: (a) the amount you paid TruEatz in the 12 months preceding the claim, or (b) **fifty U.S. dollars (US$50.00)**
+- WildTruth, its officers, directors, employees, agents, partners, and licensors are **NOT liable** for indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to lost profits, lost data, business interruption, loss of goodwill, or substitute services
+- Our **total aggregate liability** for any claim arising from your use of the Service is limited to the GREATER of: (a) the amount you paid WildTruth in the 12 months preceding the claim, or (b) **fifty U.S. dollars (US$50.00)**
 - We are not liable for any health, medical, dietary, allergy-related, or financial decisions you make based on the Service
 - We are not liable for damages caused by third-party content, services, integrations, or service interruptions outside our reasonable control
 
@@ -359,7 +359,7 @@ Some jurisdictions (including EU member states, UK, Australia, and certain U.S. 
 
 ## 16. Indemnification
 
-You agree to defend, indemnify, and hold harmless TruEatz and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable attorney fees) arising from or related to:
+You agree to defend, indemnify, and hold harmless WildTruth and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable attorney fees) arising from or related to:
 
 - Your use of the Service
 - Your submissions or content
@@ -421,11 +421,11 @@ Either party may also bring claims in **small claims court** if eligible.
 
 If you downloaded the App from the Apple App Store, the following additional terms apply:
 
-- These Terms are between you and TruEatz only — not Apple. Apple is not responsible for the App or its content.
+- These Terms are between you and WildTruth only — not Apple. Apple is not responsible for the App or its content.
 - Apple has no obligation to provide maintenance or support for the App.
 - In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any). To the maximum extent permitted by applicable law, Apple has no other warranty obligation with respect to the App.
-- TruEatz is solely responsible for addressing any claims relating to the App, including product liability, legal compliance, and intellectual property claims.
-- TruEatz is solely responsible for the investigation, defense, settlement, and discharge of any third-party claim that the App or your use of it infringes that third party's intellectual property rights.
+- WildTruth is solely responsible for addressing any claims relating to the App, including product liability, legal compliance, and intellectual property claims.
+- WildTruth is solely responsible for the investigation, defense, settlement, and discharge of any third-party claim that the App or your use of it infringes that third party's intellectual property rights.
 - You must comply with all applicable third-party agreement terms when using the App (including app-store, wireless data, and platform terms).
 - **Apple and its subsidiaries are third-party beneficiaries of these Terms**, and upon your acceptance, Apple has the right (and is deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary.
 
@@ -482,7 +482,7 @@ Continued use of the Service after changes take effect constitutes acceptance of
 
 ### 22.1 Entire agreement
 
-These Terms, together with our Privacy Policy and any in-App agreements you accept, constitute the entire agreement between you and TruEatz regarding the Service, superseding all prior or contemporaneous agreements.
+These Terms, together with our Privacy Policy and any in-App agreements you accept, constitute the entire agreement between you and WildTruth regarding the Service, superseding all prior or contemporaneous agreements.
 
 ### 22.2 Severability
 
@@ -502,11 +502,11 @@ We are not liable for failures or delays caused by events beyond our reasonable 
 
 ### 22.6 Relationship of parties
 
-These Terms do not create any agency, partnership, joint venture, employment, or franchise relationship between you and TruEatz.
+These Terms do not create any agency, partnership, joint venture, employment, or franchise relationship between you and WildTruth.
 
 ### 22.7 Independent contractor
 
-TruEatz operates the Service as an independent provider. Nothing in these Terms creates any fiduciary, partnership, or special relationship.
+WildTruth operates the Service as an independent provider. Nothing in these Terms creates any fiduciary, partnership, or special relationship.
 
 ### 22.8 Privacy
 
@@ -535,4 +535,4 @@ For disputes: subject "Dispute"
 
 ---
 
-*TruEatz — Real food. Real science. Use responsibly.*
+*WildTruth — Real food. Real science. Use responsibly.*
