@@ -141,9 +141,10 @@ Any feedback, suggestions, ideas, or recommendations you provide about the Servi
 
 You earn points by contributing to the food database (scanning, submitting products, OCR captures, reports, upvotes). Points convert to FREE Premium time when our subscription launches:
 
-- ~833 points = 1 month of Premium banked
-- 10,000 points = 1 year banked + Crown badge
-- Points stack indefinitely, with no cap, and never expire while your account is active
+- 1,000 points = 1 month of Premium banked
+- Points convert to a maximum of **24 months** of Premium per account over the lifetime of that account. Points beyond that ceiling continue to accumulate but do not convert to further Premium time
+- 12,000 points = Founders Circle badge — a profile badge only; it does not grant additional Premium time
+- Your points balance is not capped and does not expire while your account is active. Earning is rate-limited: up to 100 points a day from scans, 50 a day from reports and 15 a day from store locations, and up to 25 points in total per barcode per person. Deleting your account deletes your points with it
 
 ### 7.2 Points are not money
 
