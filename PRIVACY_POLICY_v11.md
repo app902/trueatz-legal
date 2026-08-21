@@ -1,8 +1,8 @@
 # WildTruth Privacy Policy
 
 **Effective Date:** May 3, 2026
-**Last Updated:** May 3, 2026
-**Version:** 11.0
+**Last Updated:** August 21, 2026
+**Version:** 11.3
 
 WildTruth is built on a simple promise: **we collect the minimum amount of data needed to make the App work, and we never sell it to anyone.** This document explains exactly what we collect, why, your choices, and your rights.
 
@@ -125,12 +125,13 @@ We use the data above only for these purposes:
 8. **To comply with legal obligations** — respond to valid court orders, subpoenas, or law enforcement requests as required by law
 
 We do **NOT** use your data for:
-- Targeted or behavioral advertising
 - Selling to data brokers or third parties
 - Building shadow profiles
 - Training AI or machine learning models on your personal information
 - Marketing emails or promotional drip campaigns (see Section 6.3)
 - Profiling for solely automated decisions that produce legal effects
+
+**Advertising (not currently active):** WildTruth displays no ads today and uses no advertising SDK. If we introduce advertising, it will run only in the free tier — Premium removes all ads — and it will never influence any product's score. If we introduce advertising we will update this Policy to name the ad provider, describe what data it collects, and present any required consent or tracking permission. We will never sell your personal data to advertisers.
 
 ---
 
@@ -145,7 +146,7 @@ We share **only** what's necessary, and **only** with these categories of truste
 Data shared with our service providers (Firebase, Apple, Google) is **not a "sale" or "sharing" under CCPA / CPRA** because these providers are bound by written contracts that prohibit them from using the data for their own commercial purposes outside of providing contracted services.
 
 We do **NOT** share your data with:
-- Advertising networks (we use no ad SDKs)
+- Advertising networks for the sale of your data (we never sell your data; we currently use no ad SDK — see Section 13 if this changes)
 - Data brokers
 - Marketing partners or affiliate networks
 - Government agencies (except when legally required by valid court order, subpoena, or law)
@@ -188,7 +189,7 @@ Required for the App to function:
 
 If you grant push notification permission, we may send you:
 - **Recall alerts** (Premium feature) — when a product you've scanned is recalled by the FDA or manufacturer. **We do not guarantee delivery, timeliness, or completeness of recall notifications.** Always check official FDA recall sources directly when safety is critical.
-- **Achievement notifications** — when you unlock a new level, badge, or Crown
+- **Achievement notifications** — when you unlock a new level or badge
 - **Community activity** (optional, off by default) — when one of your submissions is approved or upvoted
 
 Disable any of these in your device's notification settings:
@@ -215,7 +216,7 @@ Some things you do in WildTruth are visible to other users:
 
 **PUBLIC** (visible to other users):
 - Display name and anonymous username
-- Level (Sprout, Foodie, Health Hunter, Food Guardian, Champion, Crown holder) and points total
+- Level (Sprout, Foodie, Health Hunter, Food Guardian, Champion, Founders Circle) and points total
 - Submissions to the public food database (ingredient lists, store information, OCR-extracted text, attached photos)
 - Reports you file on existing products
 - Upvotes and downvotes you cast
@@ -274,6 +275,10 @@ You have the right to:
 - **Lodge a complaint** with a regulator (see below)
 
 To exercise any of these rights, go to the **About** tab → tap your **Profile** → use **Sign Out**, **Delete Account**, or email app@trueatzapp.com.
+
+**Deletion is scheduled, not immediate.** When you confirm deletion in the App, your account is scheduled for deletion **7 days** later. Throughout those 7 days your account keeps working normally and you can change your mind — return to the same Profile screen and tap **Cancel deletion**. Once that grace period ends and deletion actually starts, it can no longer be stopped or cancelled.
+
+Step-by-step instructions, and a full list of what is deleted and what is retained, are published at https://app902.github.io/trueatz-legal/DELETE_ACCOUNT.html.
 
 If you delete your account:
 - Your email, scan history, and personal data are permanently removed within 30 days
@@ -399,7 +404,7 @@ By using the App from outside the US, you acknowledge this transfer.
 
 ## 13. Third-Party Services and SDKs
 
-The App contains **no advertising SDKs, no third-party analytics SDKs, and no marketing trackers**. Our complete list of third-party services:
+The App currently contains **no advertising SDKs and no third-party analytics or marketing trackers**. If we introduce an advertising SDK in the future (free tier only, e.g. Google AdMob), we will add it to the table below and update this Policy. Our complete list of third-party services:
 
 | Service | Purpose | Data shared |
 |---|---|---|
@@ -443,7 +448,7 @@ We have completed Google Play's Health Apps Declaration where required and opera
 
 We may update this Policy as the App evolves. When we make material changes, we will:
 - Update the "Last Updated" and "Version" fields above
-- Notify you in the App or by email at least 30 days before changes take effect
+- Notify you in the App or by email, and provide any notice or obtain any consent required by applicable law
 - Provide a plain-language summary of what changed
 - Give you the chance to review and, if you disagree, delete your account before changes apply
 

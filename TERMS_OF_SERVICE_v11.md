@@ -1,8 +1,8 @@
 # WildTruth Terms of Service
 
 **Effective Date:** May 3, 2026
-**Last Updated:** May 3, 2026
-**Version:** 11.0
+**Last Updated:** August 21, 2026
+**Version:** 11.3
 
 Welcome to WildTruth. These Terms of Service ("Terms") govern your use of the WildTruth mobile application (the "App"), the trueatzapp.com website, and any related services we provide (together, the "Service").
 
@@ -29,6 +29,7 @@ WildTruth is a food-scanning App that scores packaged foods on a 0–100 scale b
 - Community contributions to a shared food database
 - A points system that converts to free Premium time
 - Optional Premium features (paid subscription)
+- The free tier may display advertising; Premium removes ads. Advertising, if shown, never influences a product's score.
 
 **WildTruth is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional for medical advice, diagnosis, or treatment.** See Section 11 for the full health and safety disclaimer.
 
@@ -142,6 +143,7 @@ Any feedback, suggestions, ideas, or recommendations you provide about the Servi
 You earn points by contributing to the food database (scanning, submitting products, OCR captures, reports, upvotes). Points convert to FREE Premium time when our subscription launches:
 
 - 1,000 points = 1 month of Premium banked
+- If you earned points while a prior published version of these Terms stated a lower redemption threshold, WildTruth will honor the value of those already-earned points under that prior published rate. New points earned after this update use the current 1,000-point rate (see 7.4)
 - Points convert to a maximum of **24 months** of Premium per account over the lifetime of that account. Points beyond that ceiling continue to accumulate but do not convert to further Premium time
 - 12,000 points = Founders Circle badge — a profile badge only; it does not grant additional Premium time
 - Your points balance is not capped and does not expire while your account is active. Earning is rate-limited: up to 100 points a day from scans, 50 a day from reports and 15 a day from store locations, and up to 25 points in total per barcode per person. Deleting your account deletes your points with it
@@ -464,7 +466,7 @@ We may update these Terms as the Service evolves.
 **Material changes** include changes to data practices, fee structure, dispute resolution, the points or Premium system, or rights and obligations of users. For material changes, we will:
 
 - Update the "Last Updated" and "Version" fields above
-- Notify you via in-App message or email **at least 30 days** before changes take effect
+- Notify you via in-App message or email, and provide any notice or obtain any consent required by applicable law
 - Provide a plain-language summary of what's changing
 
 If you don't agree with the material changes, you can delete your account before they take effect.
